@@ -400,7 +400,6 @@ header .mega-navi .btn-mega-navi-close {
   display: none;
 }
 header .mega-navi .mega-navi-inner {
-  border: 1px solid #0541e7;
   width: 1160px;
   margin: auto;
   padding: 20px 0;
@@ -548,7 +547,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 .focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb {
   position: relative;
 }
-.focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb cu img {
+.focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb img {
   width: 100%;
 }
 .focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb .discount {
