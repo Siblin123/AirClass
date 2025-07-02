@@ -1,6 +1,5 @@
 @charset "UTF-8";
-/* Import Local SCSS Files */
-/* font Family */
+/* Import Local SCSS Files */ /* font Family */
 /* Text Color*/
 /* Object Color*/
 @import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css");
@@ -186,6 +185,8 @@ li {
   .category-shortcut .category-shortcut-inner .category-shortcut-items .category-shortcut-item span {
     font-size: 14px;
   }
+}
+@media (max-width: 767px) {
   .best-class .best-class-inner .best-class-content .items-outer .best-class-items {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -236,6 +237,8 @@ li {
   .best-class .best-class-inner .best-class-content .best-class-wrap .best-class-banner-tablet img {
     width: 100%;
   }
+}
+@media (max-width: 767px) {
   .early-bird .early-bird-inner .early-bird-content .early-bird-banner {
     -webkit-box-orient: vertical;
     -webkit-box-direction: reverse;
@@ -249,6 +252,8 @@ li {
   .early-bird .early-bird-inner .early-bird-content .early-bird-banner .banner-about .hash-tag {
     font-size: 16px;
   }
+}
+@media (max-width: 767px) {
   .blog .blog-inner .blog-content .blog-items {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -258,6 +263,8 @@ li {
   .blog .blog-inner .blog-content .blog-items .blog-item {
     margin-bottom: 10px;
   }
+}
+@media (max-width: 767px) {
   .slogan {
     padding: 20px !important;
   }
@@ -271,6 +278,8 @@ li {
     width: 60%;
     margin: auto;
   }
+}
+@media (max-width: 767px) {
   .tip-tech .tip-tech-inner .tip-tech-content .tip-tech-wrap .tip-tech-items {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -283,6 +292,8 @@ li {
   .tip-tech .tip-tech-inner .tip-tech-content .tip-tech-wrap .tip-tech-items .tip-tech-item .thumb {
     display: none;
   }
+}
+@media (max-width: 767px) {
   footer {
     padding: 30px 0;
   }
@@ -347,6 +358,8 @@ li {
             transform: translateY(0);
     margin-top: 10px;
   }
+}
+@media (max-width: 767px) {
   .category-class .category-class-inner .category-class-wrap .focus-class-items .focus-class-item {
     width: calc(50% - 20px) !important;
   }
@@ -357,6 +370,8 @@ li {
     font-size: 12px;
     margin: 0;
   }
+}
+@media (max-width: 767px) {
   .take-course {
     padding: 0 !important;
   }
@@ -393,6 +408,8 @@ li {
   .take-course .take-course-inner .payment {
     border-top: 1px dashed #ddd;
   }
+}
+@media (max-width: 767px) {
   .class-detail-image {
     border: 1px solid #000;
     padding: 0 !important;
@@ -420,6 +437,8 @@ li {
     width: 80%;
     height: auto;
   }
+}
+@media (max-width: 767px) {
   .class-detail-full {
     padding: 0;
   }

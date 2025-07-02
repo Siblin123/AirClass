@@ -1,6 +1,5 @@
 @charset "UTF-8";
-/* Import Local SCSS Files */
-/* font Family */
+/* Import Local SCSS Files */ /* font Family */
 /* Text Color*/
 /* Object Color*/
 @import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css");
@@ -105,7 +104,7 @@ section:not(.front-slider) {
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 1000000000000000000000;
+  z-index: 1000000000000000100000;
   display: none;
 }
 .member-login-overlay .member-login {
@@ -233,7 +232,8 @@ header .header-inner .logo-search {
 }
 header .header-inner .logo-search .logo img {
   width: 120px;
-  transform: scale(2);
+  -webkit-transform: scale(2);
+          transform: scale(2);
 }
 .search,
 .search-mobile {
@@ -400,6 +400,7 @@ header .mega-navi .btn-mega-navi-close {
   display: none;
 }
 header .mega-navi .mega-navi-inner {
+  border: 1px solid #0541e7;
   width: 1160px;
   margin: auto;
   padding: 20px 0;
@@ -546,9 +547,8 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 }
 .focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb {
   position: relative;
-  cursor: pointer;
 }
-.focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb img {
+.focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb cu img {
   width: 100%;
 }
 .focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb .discount {
