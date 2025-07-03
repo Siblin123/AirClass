@@ -608,7 +608,9 @@ header {
           flex-direction: column;
           justify-content: space-between;
           align-items: center;
-          
+          i{
+            color: red;
+          }
           .best-class-items {
             display: flex;
             display: 15px;
@@ -617,6 +619,7 @@ header {
             .best-class-item {
 
               display: flex;
+              cursor: pointer;
               gap: 15px;
               flex: 1;
               .thumb {
