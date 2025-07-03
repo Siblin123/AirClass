@@ -106,12 +106,5 @@ airclass 클론코딩
 ---
 
 ## 전체 스크린샷
-![Image](https://github.com/user-attachments/assets/38d06cc3-bb7a-4adb-a7d3-cf76010797c5)
-##자료실
-![Image](https://github.com/user-attachments/assets/2447bf6b-7d4c-4921-beb7-6a09b034f992)
-##로그인
-![Image](https://github.com/user-attachments/assets/09ebc7d0-d8e2-4dff-be42-13c034601cf0)
-
-## 📝 라이선스
-
+![Image](https://github.com/user-attachments/assets/cc6b7222-28a9-4c6b-bcb9-aa1678d6517e)
 본 프로젝트는 포트폴리오 용도로만 사용되며, 상업적 이용은 금지됩니다.
