@@ -76,50 +76,33 @@ airclass 클론코딩
 
 ## 📸 스크린샷
 
+
+
+
+
 ## 📌 주요 구성 섹션
 
-### 1. 🎯 메인 비주얼  
-반기는 이미지로 청소년 특유의 발랄함을 표현
+### 1.메인 비주얼  
 
-![Image](https://github.com/user-attachments/assets/54f58477-e918-4d7f-8e40-85d4839a6491)
+
+![Image](https://github.com/user-attachments/assets/4677cd60-419e-4f71-967a-6837f4654f03)
+
+---
+### 2.메인 내용   
+![Image](https://github.com/user-attachments/assets/715d4cfe-1c00-4068-a24a-9dee38b031ac)
 
 ---
 
-### 2. 🔄 스와이퍼 (슬라이드 배너)  
-주요 공지, 이벤트 등을 순차적으로 보여주는 Swiper 슬라이드 구현.
-
-![Image](https://github.com/user-attachments/assets/1e2077f1-7cf0-4efc-9a81-16700b548ade)
+### 3. 푸터  
+![Image](https://github.com/user-attachments/assets/0c27deff-886e-4c8d-8158-db79d2c781af)
 
 ---
 
-### 3. ℹ️ 정보 제공 섹션  
-기관 소개, 안내사항 등 사용자가 알아야 할 핵심 정보 제공.
+### 4. 구매 사이트  
+![Image](https://github.com/user-attachments/assets/5fb81600-d457-4b97-998a-5ce801e21923)
 
-![Image](https://github.com/user-attachments/assets/90644922-d76f-4e8b-9fc3-8097af12eaf4)
-
----
-
-### 4. 👧 청소년 이야기  
-청소년들의 인터뷰, 후기, 활동 이야기 등을 진솔하게 담은 공간.
-
-![Image](https://github.com/user-attachments/assets/cf3b2a70-527f-4ef6-8596-66d4597cd5d1)
-
----
-
-### 5. 🌐 다양한 관련 사이트  
-청소년 활동 진흥원에 관련된 사이트 소개 하는 공간
-
-![Image](https://github.com/user-attachments/assets/bcfec5cd-b0d7-4ab6-a701-521561030906)
-
----
-
-### 6. 📮 푸터  
-연락처, 저작권 정보, 관련 링크 등이 포함된 마무리 영역입니다.
-
-![Image](https://github.com/user-attachments/assets/52844e27-d2f3-4178-b5ec-ca7f29a16f33)
-
----
-
+### 5. 로그인  
+![Image](https://github.com/user-attachments/assets/3e59f48f-ed53-4767-b741-2e346abd1458)
 ---
 
 ## 전체 스크린샷
