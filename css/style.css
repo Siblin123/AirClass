@@ -357,7 +357,7 @@ header .header-inner .gnb a:last-child::after {
   content: "";
 }
 header .header-inner .gnb a:hover:not(.trigger) {
-  color: #ED2040;
+  color: #b8ebff;
 }
 header .header-inner .gnb .trigger {
   -webkit-transform: translateY(-3px);
@@ -531,7 +531,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
   background: rgba(10, 117, 54, 0.2);
 }
 .category-shortcut .category-shortcut-inner .category-shortcut-items .category-shortcut-item:nth-child(5) em {
-  background: rgba(237, 32, 64, 0.2);
+  background: rgba(184, 235, 255, 0.2);
 }
 .category-shortcut .category-shortcut-inner .category-shortcut-items .category-shortcut-item:nth-child(6) em {
   background: rgba(119, 119, 119, 0.2);
@@ -551,7 +551,15 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
   width: 100%;
 }
 .focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb .discount {
-  background: #ED2040;
+  background: #b8ebff;
+  position: absolute;
+  right: 0;
+  bottom: 10px;
+  color: #fff;
+  padding: 5px 8px;
+}
+.focus-class .focus-class-inner .focus-class-content .mySwiper02 .focus-class-items .focus-class-item .thumb .BEST {
+  background: #FF3C6D;
   position: absolute;
   right: 0;
   bottom: 10px;
@@ -671,7 +679,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
   margin-bottom: 3px;
 }
 .overview .class-price .sale {
-  color: #ED2040;
+  color: #b8ebff;
 }
 .overview .class-price .price-prev {
   color: #ddd;
@@ -791,7 +799,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 }
 .blog .blog-inner .blog-content .blog-items .blog-item .desc .blog-sort {
   font-size: 13px;
-  color: #ED2040;
+  color: #b8ebff;
   margin: 5px;
 }
 .blog .blog-inner .blog-content .blog-items .blog-item .desc .blog-outline h4 {
@@ -1149,7 +1157,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
 }
 .take-course .take-course-inner .cart-wrap .cart-items .cart-item .cart-overview .cart-overview-header h4 {
   font-size: 14px;
-  color: #ED2040;
+  color: #b8ebff;
   font-weight: 400;
 }
 .take-course .take-course-inner .cart-wrap .cart-items .cart-item .cart-overview .cart-overview-header .btn-clear {
@@ -1453,7 +1461,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   width: 100%;
 }
 .category-class .category-class-inner .category-class-wrap .focus-class-items .focus-class-item .thumb .discount {
-  background: #ED2040;
+  background: #b8ebff;
   position: absolute;
   right: 0;
   bottom: 10px;
@@ -1587,7 +1595,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   content: "";
   width: 4px;
   height: 52px;
-  background-color: #ED2040;
+  background-color: #b8ebff;
   position: absolute;
   left: 0;
   top: 50%;
@@ -1655,8 +1663,8 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   outline: none;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-info .class-curriculum .class-detail-wrap .curriculum-all-fold-expand button.selected {
-  color: #ED2040;
-  border-color: #ED2040;
+  color: #b8ebff;
+  border-color: #b8ebff;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-info .class-curriculum .class-detail-wrap .curriculum-basic-info.header {
   border-radius: 5px;
@@ -1865,8 +1873,8 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   font-weight: 500;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-info .class-reivew .class-detail-wrap .btn-review-more {
-  color: #ED2040;
-  border: 1px solid #ED2040;
+  color: #b8ebff;
+  border: 1px solid #b8ebff;
   display: block;
   text-align: center;
   padding: 7px;
@@ -1875,7 +1883,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   transition: 0.3s;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-info .class-reivew .class-detail-wrap .btn-review-more:hover {
-  background: #ED2040;
+  background: #b8ebff;
   color: #fff;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-info .class-faq .class-detail-wrap .faq-accordion .faq-title {
@@ -1991,7 +1999,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   font-size: 11px;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-sidebar .class-detail-sidebar-wrap.group-required-info .badge-group .badge-class-required.focus {
-  color: #ED2040;
+  color: #b8ebff;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-sidebar .class-detail-sidebar-wrap.group-required-info .overview h4 {
   font-size: 17px;
