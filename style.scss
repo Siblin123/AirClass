@@ -593,24 +593,22 @@ header {
     .best-class-content {
       .best-class-wrap {
         display: flex;
-        gap: 25px;
-
         .best-class-banner {
           img {
             width: 370px;
           }
         }
-
+        
         .best-class-banner-tablet {
           display: none;
         }
-
+        
         .best-class-items-outer {
           display: flex;
           flex-direction: column;
           justify-content: space-between;
           align-items: center;
-
+          
           .best-class-items {
             display: flex;
             display: 15px;
@@ -620,7 +618,7 @@ header {
 
               display: flex;
               gap: 15px;
-
+              flex: 1;
               .thumb {
                 width: 130px;
 
@@ -636,7 +634,7 @@ header {
                 display: flex;
                 flex-direction: column;
                 justify-content: space-between;
-
+                width: 240px;
                 h4 {
                   font-weight: 600;
                   text-overflow: ellipsis;
