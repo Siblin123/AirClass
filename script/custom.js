@@ -7,7 +7,7 @@ fetch('경로')
 })
 */
 
-fetch('/101class/include/footer.html')
+fetch('/AirClass/include/footer.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.footer-include').innerHTML = data;
@@ -27,7 +27,7 @@ fetch('/101class/include/footer.html')
   })
 });
 
-fetch('/101class/include/header.html')
+fetch('/AirClass/include/header.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.header-include').innerHTML = data;
