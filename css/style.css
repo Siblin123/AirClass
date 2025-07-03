@@ -2,6 +2,7 @@
 /* Import Local SCSS Files */ /* font Family */
 /* Text Color*/
 /* Object Color*/
+/*푸터색상*/
 @import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/static/woff2/SUIT.css");
@@ -917,7 +918,7 @@ footer {
   padding: 50px 0;
 }
 footer * {
-  color: #F9F9F9;
+  color: #004261;
 }
 footer .footer-inner .lnb-wrap {
   display: -webkit-box;
@@ -2059,7 +2060,7 @@ footer .footer-inner .copyright-wrap .sns a:hover .bi {
   color: #fff;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-sidebar .class-detail-sidebar-wrap.group-main-action .btn-primary.btn-register {
-  background: #ff641b;
+  background: #004261;
 }
 .class-detail-full .class-detail-full-inner .class-detail-full-contnet .class-detail-sidebar .class-detail-sidebar-wrap.group-main-action .btn-primary.btn-cart {
   background: rgba(10, 117, 54, 0.5);

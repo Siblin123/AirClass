@@ -950,7 +950,7 @@ footer {
   background: $dim-black;
 
   * {
-    color: $cloudy-gray;
+    color: $footerColor;
   }
 
   padding: 50px 0;
@@ -2203,7 +2203,7 @@ footer {
             color: $white;
 
             &.btn-register {
-              background: $orangered;
+              background: $footerColor
             }
 
             &.btn-cart {
