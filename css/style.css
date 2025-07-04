@@ -56,7 +56,7 @@ body {
 }
 
 section:not(.front-slider) {
-  padding: 65px 0;
+  padding: 30px 0;
 }
 
 [class*=inner] {
@@ -76,11 +76,16 @@ section:not(.front-slider) {
       -ms-flex-align: center;
           align-items: center;
   height: 50px;
-  margin-bottom: 20px;
+  margin: 20px;
 }
 .front-header h2 {
   font-size: 24px;
   font-weight: 500;
+}
+.front-header h2 img {
+  text-align: center;
+  -webkit-transform: translateY(20%);
+          transform: translateY(20%);
 }
 .front-header a {
   font-size: 14px;
@@ -436,11 +441,10 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 
 /* ############ section : front-slider ############*/
 .front-slider .front-slider-items .front-slider-item:nth-child(1) {
-  background: rgb(255, 252, 234);
+  background: rgb(99, 153, 255);
 }
 .front-slider .front-slider-items .front-slider-item:nth-child(2) {
   background: #69b594;
-  background-image: url(images/banner-early-bird-01.png);
 }
 .front-slider .front-slider-items .front-slider-item:nth-child(3) {
   background: #f59965;
