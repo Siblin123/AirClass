@@ -426,6 +426,7 @@ header {
 
       &:nth-child(2) {
         background: #69b594;
+        background-image: url(images/banner-early-bird-01.png);
       }
 
       &:nth-child(3) {
@@ -603,9 +604,12 @@ header {
     .best-class-content {
       .best-class-wrap {
         display: flex;
+        gap: 20px ;
         .best-class-banner {
           img {
             width: 370px;
+            height: 350px;
+            object-fit: cover;
           }
         }
         
@@ -947,11 +951,8 @@ header {
 
 /* ############ footer-include  ############*/
 footer {
-  background: $dim-black;
+  background: $footerColor;
 
-  * {
-    color: $footerColor;
-  }
 
   padding: 50px 0;
 

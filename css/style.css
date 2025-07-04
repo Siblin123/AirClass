@@ -440,6 +440,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 }
 .front-slider .front-slider-items .front-slider-item:nth-child(2) {
   background: #69b594;
+  background-image: url(images/banner-early-bird-01.png);
 }
 .front-slider .front-slider-items .front-slider-item:nth-child(3) {
   background: #f59965;
@@ -596,9 +597,13 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  gap: 20px;
 }
 .best-class .best-class-inner .best-class-content .best-class-wrap .best-class-banner img {
   width: 370px;
+  height: 350px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .best-class .best-class-inner .best-class-content .best-class-wrap .best-class-banner-tablet {
   display: none;
@@ -914,11 +919,8 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 
 /* ############ footer-include  ############*/
 footer {
-  background: #555;
+  background: #004261;
   padding: 50px 0;
-}
-footer * {
-  color: #004261;
 }
 footer .footer-inner .lnb-wrap {
   display: -webkit-box;
