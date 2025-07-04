@@ -601,7 +601,7 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 }
 .best-class .best-class-inner .best-class-content .best-class-wrap .best-class-banner img {
   width: 370px;
-  height: 350px;
+  height: 255px;
   -o-object-fit: cover;
      object-fit: cover;
 }
@@ -921,6 +921,9 @@ header .mega-navi .mega-navi-inner .mega-navi-item-wrap a:hover {
 footer {
   background: #004261;
   padding: 50px 0;
+}
+footer * {
+  color: white;
 }
 footer .footer-inner .lnb-wrap {
   display: -webkit-box;

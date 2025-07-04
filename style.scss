@@ -608,7 +608,7 @@ header {
         .best-class-banner {
           img {
             width: 370px;
-            height: 350px;
+            height: 255px;
             object-fit: cover;
           }
         }
@@ -953,7 +953,9 @@ header {
 footer {
   background: $footerColor;
 
-
+  *{
+    color: white;
+  }
   padding: 50px 0;
 
   .footer-inner {
